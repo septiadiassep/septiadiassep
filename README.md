@@ -13,11 +13,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   align="right" 
   alt="GIF" 
   src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" 
-  width="408" 
-  height="318" 
+  height="200" 
   style="border-radius: 16px;" />
-
-<br><br>
 
 ### Talking about Personal Stuffs
 
@@ -27,6 +24,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [Medium](https://medium.com/@septiadiassep)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: septiadiassep@gmail.com
 
-<br><br><br>
+<br><br>
 
 Copyright &copy;  2025 Asep Septiadi. All right reserved. Build with ❤️
