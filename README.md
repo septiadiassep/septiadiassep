@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   height="318" 
   style="border-radius: 16px;" />
 
-<br><br>
+<br><br><br>
 
 ### Talking about Personal Stuffs
 
