@@ -1,4 +1,4 @@
-# <samp>&gt; Hi there, I'm <a href="https://github.com/septiadiassep">Asep Septiadi</a> 👋
+# <samp>&gt; Hi there, I'm <a href="https://github.com/septiadiassep" target="_blank">Asep Septiadi</a> 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aspsptyd/](https://www.linkedin.com/in/aspsptyd/))
 [![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/aspsptyd](https://t.me/aspsptyd))
