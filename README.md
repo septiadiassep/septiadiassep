@@ -17,6 +17,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ### Talking about Personal Stuffs
 
+<br />
+
 - 👨‍💻&nbsp;&nbsp; I’m currently working @ `Goodeva Technology`
 - 📐&nbsp;&nbsp; I’m currently learning `Data Structures`, `Algorithms`, `React Js` to become a `Frontend Developer`
 - 💬&nbsp;&nbsp; Ask me about anything, I am happy to help
