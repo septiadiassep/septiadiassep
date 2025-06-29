@@ -12,16 +12,16 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img 
   align="right" 
   alt="GIF" 
-  src="https://github.com/septiadiassep/septiadiassep/blob/main/gif/coding.gif?raw=true" 
-  height="250" />
+  src="https://github.com/septiadiassep/septiadiassep/blob/main/gif/anime-1.gif?raw=true"
+  height="220" />
 
 ### Talking about Personal Stuffs
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working @ `Goodeva Technology`
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning `Data Structures`, `Algorithms`, `React Js` to become a `Frontend Developer`
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [Docxdev Corner](https://septiadiassep.github.io/docxdev/)
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: septiadiassep@gmail.com
+- 👨‍💻&nbsp;&nbsp; I’m currently working @ `Goodeva Technology`
+- 📐&nbsp;&nbsp; I’m currently learning `Data Structures`, `Algorithms`, `React Js` to become a `Frontend Developer`
+- 💬&nbsp;&nbsp; Ask me about anything, I am happy to help
+- 🌐&nbsp;&nbsp; I regulary write articles on [Docxdev Corner](https://septiadiassep.github.io/docxdev/)
+- 📥&nbsp;&nbsp; How to reach me: septiadiassep@gmail.com
 
 <br>
 
