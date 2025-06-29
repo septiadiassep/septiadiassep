@@ -12,7 +12,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img 
   align="right" 
   alt="GIF" 
-  src="https://github.com/septiadiassep/septiadiassep/blob/main/gif/anime-1.gif?raw=true"
+  src="https://github.com/septiadiassep/septiadiassep/blob/main/gif/anime-6.gif?raw=true"
   height="220" />
 
 ### Talking about Personal Stuffs
