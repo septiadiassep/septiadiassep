@@ -12,9 +12,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img 
   align="right" 
   alt="GIF" 
-  src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" 
-  height="200" 
-  style="border-radius: 16px;" />
+  src="https://github.com/septiadiassep/septiadiassep/blob/main/gif/coding.gif?raw=true" 
+  height="250" />
 
 ### Talking about Personal Stuffs
 
